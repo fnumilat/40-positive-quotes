@@ -6,11 +6,40 @@
   align-items: center;
 }
 
+/* Styles for the Header */
+.Header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border: 2px black solid;
+  width: 100%;
+}
+
 .Header-Title {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: 40px;
   color: black;
+}
+
+.Header-Image {
+  margin-top: 1%;
+  /* margin-bottom: 1%; */
+}
+
+.Header-Image .Image {
+  width: 80%;
+}
+
+.Header-Paragraph {
+  width: 50%;
+}
+
+.Header-Paragraph .Paragraph {
+  font-size: 25px;
 }
