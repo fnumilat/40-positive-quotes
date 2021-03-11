@@ -83,5 +83,17 @@
 .Body .Quote-Box {
   width: 30%;
   margin: 1%;
-  border: 2px black solid;
+  box-shadow:#ccdbc2 1px 1px 1px 1px;
 }
+
+.Body .Quote-Box .Quote-Paragraph {
+  text-align: left;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.Body .Quote-Box .Quoting-From {
+  text-align: right;
+  margin-right: 3%;
+  font-weight: bold;
+  }
