@@ -9,6 +9,7 @@ function Header() {
           40 POSITIVE QUOTES
         </a>
       </header>
+      <div className="Header-Image-Paragraph-Box">
       <div className="Header-Image">
         <img src={HeaderImage} className="Image"/>
       </div>
@@ -19,6 +20,7 @@ function Header() {
           To turn this attitude into a habit, you need to read quotes often and every day.
           </p>
         </div>
+      </div>
       </div>
     </div>
   );
