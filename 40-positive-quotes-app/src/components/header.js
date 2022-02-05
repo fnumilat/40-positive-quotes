@@ -15,7 +15,7 @@ function Header() {
       </div>
       <div className="Header-Paragraph-Box">
         <div className="Header-Paragraph">
-          <p className="Paragraph">Good and positive quotes make you feel positive, optimistic, energetic and optimistic, 
+          <p className="Paragraph">Good and positive quotes make you feel positive, optimistic, and energetic, 
           ready to set goals and take action. Their effect might continue for a little while or longer. 
           To turn this attitude into a habit, you need to read quotes often and every day.
           </p>
