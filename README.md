@@ -2,6 +2,12 @@
 
 This is a React application that renders 40 positive quotes.
 
+## Live Application URL
+
+https://40-positive-quotes.netlify.app/
+
+This application has been deployed on Netlify.
+
 ## Project Status:
 
 This project is currently in development. 
