@@ -6,7 +6,7 @@ function Header() {
     <div className="Header">
       <header className="Header-Title">
         <a>
-          40 POSITIVE QUOTES
+          ----------- 40 POSITIVE QUOTES -----------
         </a>
       </header>
       <div className="Header-Image-Paragraph-Box">
